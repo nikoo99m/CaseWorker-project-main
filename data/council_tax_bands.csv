@@ -1,0 +1,9 @@
+band_code,lower_value,upper_value,country
+A,0,40000,England
+B,40001,52000,England
+C,52001,68000,England
+D,68001,88000,England
+E,88001,120000,England
+F,120001,160000,England
+G,160001,320000,England
+H,320001,,England

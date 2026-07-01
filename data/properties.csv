@@ -1,0 +1,328 @@
+property_id,uprn,address_id,billing_authority_id,band_code,property_type,age_period,floor_area_m2,total_rooms,bedrooms,bathrooms,floors,status
+1001,UPRN001,1,1,C,Mid-terrace house,Pre-1919,82,5,3,1,2,Active
+1002,UPRN002,2,1,C,Mid-terrace house,Pre-1919,85,5,3,1,2,Active
+1003,UPRN003,3,1,C,Mid-terrace house,Pre-1919,84,5,3,1,2,Active
+1004,UPRN004,4,1,D,Semi-detached house,1945-1964,104,6,3,1,2,Active
+1005,UPRN005,5,1,D,Semi-detached house,1945-1964,109,6,3,1,2,Active
+1006,UPRN006,6,2,B,Flat,1965-1982,58,4,2,1,1,Active
+1007,UPRN007,7,2,B,Flat,1965-1982,61,4,2,1,1,Active
+1008,UPRN008,8,2,C,Flat,1965-1982,68,4,3,1,1,Active
+1009,UPRN009,9,3,E,Detached house,1983-1999,142,7,4,2,2,Active
+1010,UPRN010,11,3,E,Detached house,1983-1999,142,7,4,2,2,Active
+1011,UPRN011,11,3,E,Detached house,1983-1999,148,7,4,2,2,Active
+1012,UPRN012,12,4,C,Terraced house,1919-1944,88,5,3,1,2,Active
+1013,UPRN013,13,4,C,Terraced house,1919-1944,92,5,3,1,2,Active
+1014,UPRN014,14,5,F,Detached house,2000 onwards,158,7,4,2,2,Active
+1015,UPRN015,15,5,F,Detached house,2000 onwards,166,8,5,3,2,Active
+1016,UPRN016,16,5,G,Detached house,2000 onwards,170,8,5,3,2,Active
+1017,UPRN017,17,6,D,Semi-detached house,1983-1999,96,5,3,1,2,Active
+1018,UPRN018,18,6,D,Semi-detached house,1983-1999,99,5,3,1,2,Active
+1019,UPRN019,19,6,D,Semi-detached house,1983-1999,102,5,3,1,2,Active
+1020,UPRN020,20,1,B,Flat,2000 onwards,52,3,1,1,1,Active
+1021,UPRN021,21,1,C,Mid-terrace house,Pre-1919,86,5,3,1,2,Active
+1022,UPRN022,14,5,F,Detached house,2000 onwards,171,7,4,2,2,Active
+1023,UPRN023,23,6,D,Semi-detached house,1983-1999,122,5,3,1,2,Active
+1024,UPRN024,24,4,C,Terraced house,1919-1944,91,5,3,1,2,Active
+1025,UPRN025,25,1,B,Flat,2000 onwards,51,3,1,1,1,Active
+1026,UPRN026,26,1,B,Flat,2000 onwards,51,3,1,1,1,Active
+1027,UPRN027,27,1,B,Flat,2000 onwards,51,3,1,1,1,Active
+1028,UPRN028,28,1,A,Flat,1965-1982,40,3,1,1,1,Active
+1029,UPRN029,29,2,B,Flat,2000 onwards,52,4,2,1,1,Active
+1030,UPRN030,30,3,C,Mid-terrace house,Pre-1919,78,5,3,1,2,Active
+1031,UPRN031,31,4,D,Terraced house,1919-1944,89,5,3,1,2,Active
+1032,UPRN032,32,5,C,Semi-detached house,1945-1964,110,6,3,1,2,Active
+1033,UPRN033,33,6,D,Semi-detached house,1983-1999,117,6,3,2,2,Active
+1034,UPRN034,34,1,G,Detached house,2000 onwards,173,8,5,3,2,Active
+1035,UPRN035,35,2,B,Flat,1965-1982,63,3,1,1,1,Active
+1036,UPRN036,36,3,B,Flat,2000 onwards,75,4,2,1,1,Active
+1037,UPRN037,37,4,C,Mid-terrace house,Pre-1919,74,5,3,1,2,Active
+1038,UPRN038,38,5,C,Terraced house,1919-1944,80,5,3,1,2,Active
+1039,UPRN039,39,6,E,Semi-detached house,1945-1964,101,6,3,1,2,Active
+1040,UPRN040,40,1,E,Detached house,1983-1999,142,7,4,2,2,Active
+1041,UPRN041,41,2,F,Detached house,2000 onwards,169,8,5,3,2,Active
+1042,UPRN042,42,3,B,Flat,1965-1982,59,3,1,1,1,Active
+1043,UPRN043,43,4,C,Flat,2000 onwards,66,4,2,1,1,Active
+1044,UPRN044,44,5,B,Mid-terrace house,Pre-1919,92,5,3,1,2,Active
+1045,UPRN045,45,6,C,Terraced house,1919-1944,103,5,3,1,2,Active
+1046,UPRN046,46,1,E,Semi-detached house,1983-1999,105,6,3,2,2,Active
+1047,UPRN047,47,2,F,Detached house,1983-1999,138,7,4,2,2,Active
+1048,UPRN048,48,3,F,Detached house,2000 onwards,160,8,5,3,2,Active
+1049,UPRN049,49,4,B,Flat,1965-1982,50,3,1,1,1,Active
+1050,UPRN050,50,5,C,Flat,2000 onwards,62,4,2,1,1,Active
+1051,UPRN051,51,6,D,Mid-terrace house,Pre-1919,88,5,3,1,2,Active
+1052,UPRN052,52,1,C,Semi-detached house,1945-1964,116,6,3,1,2,Active
+1053,UPRN053,53,2,D,Semi-detached house,1983-1999,123,6,3,2,2,Active
+1054,UPRN054,54,3,F,Detached house,1983-1999,156,7,4,2,2,Active
+1055,UPRN055,55,4,G,Detached house,2000 onwards,156,8,5,3,2,Active
+1056,UPRN056,56,5,A,Flat,1965-1982,46,3,1,1,1,Active
+1057,UPRN057,57,6,B,Flat,2000 onwards,58,4,2,1,1,Active
+1058,UPRN058,58,1,C,Terraced house,1919-1944,86,5,3,1,2,Active
+1059,UPRN059,59,2,E,Semi-detached house,1945-1964,107,6,3,1,2,Active
+1060,UPRN060,60,3,D,Semi-detached house,1983-1999,119,6,3,2,2,Active
+1061,UPRN061,61,4,E,Detached house,1983-1999,152,7,4,2,2,Active
+1062,UPRN062,62,5,G,Detached house,2000 onwards,179,8,5,3,2,Active
+1063,UPRN063,63,6,C,Flat,1965-1982,64,3,1,1,1,Active
+1064,UPRN064,64,1,B,Mid-terrace house,Pre-1919,71,5,3,1,2,Active
+1065,UPRN065,65,2,C,Terraced house,1919-1944,82,5,3,1,2,Active
+1066,UPRN066,66,3,D,Semi-detached house,1945-1964,103,6,3,1,2,Active
+1067,UPRN067,67,4,E,Semi-detached house,1983-1999,115,6,3,2,2,Active
+1068,UPRN068,68,5,E,Detached house,1983-1999,143,7,4,2,2,Active
+1069,UPRN069,69,6,F,Detached house,2000 onwards,170,8,5,3,2,Active
+1070,UPRN070,70,1,C,Flat,2000 onwards,68,4,2,1,1,Active
+1071,UPRN071,71,2,D,Mid-terrace house,Pre-1919,94,5,3,1,2,Active
+1072,UPRN072,72,3,B,Terraced house,1919-1944,105,5,3,1,2,Active
+1073,UPRN073,73,4,D,Semi-detached house,1945-1964,94,6,3,1,2,Active
+1074,UPRN074,74,5,E,Semi-detached house,1983-1999,106,6,3,2,2,Active
+1075,UPRN075,75,6,F,Detached house,1983-1999,139,7,4,2,2,Active
+1076,UPRN076,76,1,A,Flat,1965-1982,52,3,1,1,1,Active
+1077,UPRN077,77,2,B,Flat,2000 onwards,64,4,2,1,1,Active
+1078,UPRN078,78,3,C,Mid-terrace house,Pre-1919,85,5,3,1,2,Active
+1079,UPRN079,79,4,D,Terraced house,1919-1944,96,5,3,1,2,Active
+1080,UPRN080,80,5,C,Semi-detached house,1945-1964,117,6,3,1,2,Active
+1081,UPRN081,81,6,D,Semi-detached house,1983-1999,129,6,3,2,2,Active
+1082,UPRN082,82,1,G,Detached house,2000 onwards,158,8,5,3,2,Active
+1083,UPRN083,83,2,C,Flat,1965-1982,43,3,1,1,1,Active
+1084,UPRN084,84,3,B,Flat,2000 onwards,55,4,2,1,1,Active
+1085,UPRN085,85,4,C,Mid-terrace house,Pre-1919,81,5,3,1,2,Active
+1086,UPRN086,86,5,C,Terraced house,1919-1944,92,5,3,1,2,Active
+1087,UPRN087,87,6,E,Semi-detached house,1945-1964,113,6,3,1,2,Active
+1088,UPRN088,88,1,E,Detached house,1983-1999,149,7,4,2,2,Active
+1089,UPRN089,89,2,F,Detached house,2000 onwards,176,8,5,3,2,Active
+1090,UPRN090,90,3,B,Flat,1965-1982,66,3,1,1,1,Active
+1091,UPRN091,91,4,C,Flat,2000 onwards,51,4,2,1,1,Active
+1092,UPRN092,92,5,B,Mid-terrace house,Pre-1919,77,5,3,1,2,Active
+1093,UPRN093,93,6,C,Terraced house,1919-1944,83,5,3,1,2,Active
+1094,UPRN094,94,1,E,Semi-detached house,1983-1999,112,6,3,2,2,Active
+1095,UPRN095,95,2,F,Detached house,1983-1999,145,7,4,2,2,Active
+1096,UPRN096,96,3,F,Detached house,2000 onwards,172,8,5,3,2,Active
+1097,UPRN097,97,4,B,Flat,1965-1982,62,3,1,1,1,Active
+1098,UPRN098,98,5,C,Flat,2000 onwards,69,4,2,1,1,Active
+1099,UPRN099,99,6,D,Mid-terrace house,Pre-1919,95,5,3,1,2,Active
+1100,UPRN100,100,1,C,Semi-detached house,1945-1964,96,6,3,1,2,Active
+1101,UPRN101,101,2,D,Semi-detached house,1983-1999,108,6,3,2,2,Active
+1102,UPRN102,102,3,F,Detached house,1983-1999,141,7,4,2,2,Active
+1103,UPRN103,103,4,G,Detached house,2000 onwards,163,8,5,3,2,Active
+1104,UPRN104,104,5,A,Flat,1965-1982,53,3,1,1,1,Active
+1105,UPRN105,105,6,B,Flat,2000 onwards,65,4,2,1,1,Active
+1106,UPRN106,106,1,C,Terraced house,1919-1944,98,5,3,1,2,Active
+1107,UPRN107,107,2,E,Semi-detached house,1945-1964,119,6,3,1,2,Active
+1108,UPRN108,108,3,D,Semi-detached house,1983-1999,126,6,3,2,2,Active
+1109,UPRN109,109,4,E,Detached house,1983-1999,132,7,4,2,2,Active
+1110,UPRN110,110,5,G,Detached house,2000 onwards,159,8,5,3,2,Active
+1111,UPRN111,111,6,C,Flat,1965-1982,49,3,1,1,1,Active
+1112,UPRN112,112,1,B,Mid-terrace house,Pre-1919,83,5,3,1,2,Active
+1113,UPRN113,113,2,C,Terraced house,1919-1944,89,5,3,1,2,Active
+1114,UPRN114,114,3,D,Semi-detached house,1945-1964,110,6,3,1,2,Active
+1115,UPRN115,115,4,E,Semi-detached house,1983-1999,122,6,3,2,2,Active
+1116,UPRN116,116,5,E,Detached house,1983-1999,155,7,4,2,2,Active
+1117,UPRN117,117,6,F,Detached house,2000 onwards,182,8,5,3,2,Active
+1118,UPRN118,118,1,C,Flat,2000 onwards,48,4,2,1,1,Active
+1119,UPRN119,119,2,D,Mid-terrace house,Pre-1919,74,5,3,1,2,Active
+1120,UPRN120,120,3,B,Terraced house,1919-1944,85,5,3,1,2,Active
+1121,UPRN121,121,4,D,Semi-detached house,1945-1964,106,6,3,1,2,Active
+1122,UPRN122,122,5,E,Semi-detached house,1983-1999,118,6,3,2,2,Active
+1123,UPRN123,123,6,F,Detached house,1983-1999,146,7,4,2,2,Active
+1124,UPRN124,124,1,A,Flat,1965-1982,59,3,1,1,1,Active
+1125,UPRN125,125,2,B,Flat,2000 onwards,71,4,2,1,1,Active
+1126,UPRN126,126,3,C,Mid-terrace house,Pre-1919,97,5,3,1,2,Active
+1127,UPRN127,127,4,D,Terraced house,1919-1944,81,5,3,1,2,Active
+1128,UPRN128,128,5,C,Semi-detached house,1945-1964,97,6,3,1,2,Active
+1129,UPRN129,129,6,D,Semi-detached house,1983-1999,109,6,3,2,2,Active
+1130,UPRN130,130,1,G,Detached house,2000 onwards,165,8,5,3,2,Active
+1131,UPRN131,131,2,C,Flat,1965-1982,72,5,1,1,1,Active
+1132,UPRN132,132,3,B,Flat,2000 onwards,67,4,2,1,1,Active
+1133,UPRN133,133,4,C,Mid-terrace house,Pre-1919,88,5,3,1,2,Active
+1134,UPRN134,134,5,C,Terraced house,1919-1944,99,5,3,1,2,Active
+1135,UPRN135,135,6,E,Semi-detached house,1945-1964,120,6,3,1,2,Active
+1136,UPRN136,136,1,E,Detached house,1983-1999,134,7,4,2,2,Active
+1137,UPRN137,137,2,F,Detached house,2000 onwards,161,8,5,3,2,Active
+1138,UPRN138,138,3,B,Flat,1965-1982,46,3,1,1,1,Active
+1139,UPRN139,139,4,C,Flat,2000 onwards,58,4,2,1,1,Active
+1140,UPRN140,140,5,B,Mid-terrace house,Pre-1919,84,5,3,1,2,Active
+1141,UPRN141,141,6,C,Terraced house,1919-1944,95,5,3,1,2,Active
+1142,UPRN142,142,1,E,Semi-detached house,1983-1999,124,6,3,2,2,Active
+1143,UPRN143,143,2,F,Detached house,1983-1999,152,7,4,2,2,Active
+1144,UPRN144,144,3,F,Detached house,2000 onwards,179,8,5,3,2,Active
+1145,UPRN145,145,4,B,Flat,1965-1982,42,3,1,1,1,Active
+1146,UPRN146,146,5,C,Flat,2000 onwards,54,4,2,1,1,Active
+1147,UPRN147,147,6,D,Mid-terrace house,Pre-1919,80,5,3,1,2,Active
+1148,UPRN148,148,1,C,Semi-detached house,1945-1964,103,6,3,1,2,Active
+1149,UPRN149,149,2,D,Semi-detached house,1983-1999,115,6,3,2,2,Active
+1150,UPRN150,150,3,F,Detached house,1983-1999,148,7,4,2,2,Active
+1151,UPRN151,151,4,G,Detached house,2000 onwards,175,8,5,3,2,Active
+1152,UPRN152,152,5,A,Flat,1965-1982,65,3,1,1,1,Active
+1153,UPRN153,153,6,B,Flat,2000 onwards,72,4,2,1,1,Active
+1154,UPRN154,154,1,C,Terraced house,1919-1944,78,5,3,1,2,Active
+1155,UPRN155,155,2,E,Semi-detached house,1945-1964,99,6,3,1,2,Active
+1156,UPRN156,156,3,D,Semi-detached house,1983-1999,111,6,3,2,2,Active
+1157,UPRN157,157,4,E,Detached house,1983-1999,144,7,4,2,2,Active
+1158,UPRN158,158,5,G,Detached house,2000 onwards,166,8,5,3,2,Active
+1159,UPRN159,159,6,C,Flat,1965-1982,56,3,1,1,1,Active
+1160,UPRN160,160,1,B,Mid-terrace house,Pre-1919,90,5,3,1,2,Active
+1161,UPRN161,161,2,C,Terraced house,1919-1944,101,5,3,1,2,Active
+1162,UPRN162,162,3,D,Semi-detached house,1945-1964,122,6,3,1,2,Active
+1163,UPRN163,163,4,E,Semi-detached house,1983-1999,102,6,3,2,2,Active
+1164,UPRN164,164,5,E,Detached house,1983-1999,135,7,4,2,2,Active
+1165,UPRN165,165,6,F,Detached house,2000 onwards,162,8,5,3,2,Active
+1166,UPRN166,166,1,C,Flat,2000 onwards,60,4,2,1,1,Active
+1167,UPRN167,167,2,D,Mid-terrace house,Pre-1919,86,5,3,1,2,Active
+1168,UPRN168,168,3,B,Terraced house,1919-1944,92,5,3,1,2,Active
+1169,UPRN169,169,4,D,Semi-detached house,1945-1964,113,6,3,1,2,Active
+1170,UPRN170,170,5,E,Semi-detached house,1983-1999,125,6,3,2,2,Active
+1171,UPRN171,171,6,F,Detached house,1983-1999,158,7,4,2,2,Active
+1172,UPRN172,172,1,A,Flat,1965-1982,44,3,1,1,1,Active
+1173,UPRN173,173,2,B,Flat,2000 onwards,51,4,2,1,1,Active
+1174,UPRN174,174,3,C,Mid-terrace house,Pre-1919,77,5,3,1,2,Active
+1175,UPRN175,175,4,D,Terraced house,1919-1944,88,5,3,1,2,Active
+1176,UPRN176,176,5,C,Semi-detached house,1945-1964,109,6,3,1,2,Active
+1177,UPRN177,177,6,D,Semi-detached house,1983-1999,121,6,3,2,2,Active
+1178,UPRN178,178,1,G,Detached house,2000 onwards,172,8,5,3,2,Active
+1179,UPRN179,179,2,C,Flat,1965-1982,70,5,1,1,1,Active
+1180,UPRN180,180,3,B,Flat,2000 onwards,74,4,2,1,1,Active
+1181,UPRN181,181,4,C,Mid-terrace house,Pre-1919,73,5,3,1,2,Active
+1182,UPRN182,182,5,C,Terraced house,1919-1944,84,5,3,1,2,Active
+1183,UPRN183,183,6,E,Semi-detached house,1945-1964,100,6,3,1,2,Active
+1184,UPRN184,184,1,E,Detached house,1983-1999,141,7,4,2,2,Active
+1185,UPRN185,185,2,F,Detached house,2000 onwards,168,8,5,3,2,Active
+1186,UPRN186,186,3,B,Flat,1965-1982,58,3,1,1,1,Active
+1187,UPRN187,187,4,C,Flat,2000 onwards,70,4,2,1,1,Active
+1188,UPRN188,188,5,B,Mid-terrace house,Pre-1919,91,5,3,1,2,Active
+1189,UPRN189,189,6,C,Terraced house,1919-1944,102,5,3,1,2,Active
+1190,UPRN190,190,1,E,Semi-detached house,1983-1999,104,6,3,2,2,Active
+1191,UPRN191,191,2,F,Detached house,1983-1999,137,7,4,2,2,Active
+1192,UPRN192,192,3,F,Detached house,2000 onwards,164,8,5,3,2,Active
+1193,UPRN193,193,4,B,Flat,1965-1982,49,3,1,1,1,Active
+1194,UPRN194,194,5,C,Flat,2000 onwards,61,4,2,1,1,Active
+1195,UPRN195,195,6,D,Mid-terrace house,Pre-1919,87,5,3,1,2,Active
+1196,UPRN196,196,1,C,Semi-detached house,1945-1964,115,6,3,1,2,Active
+1197,UPRN197,197,2,D,Semi-detached house,1983-1999,127,6,3,2,2,Active
+1198,UPRN198,198,3,F,Detached house,1983-1999,155,7,4,2,2,Active
+1199,UPRN199,199,4,G,Detached house,2000 onwards,155,8,5,3,2,Active
+1200,UPRN200,200,5,A,Flat,1965-1982,45,3,1,1,1,Active
+1201,UPRN201,201,6,B,Flat,2000 onwards,57,4,2,1,1,Active
+1202,UPRN202,202,1,C,Terraced house,1919-1944,90,5,3,1,2,Active
+1203,UPRN203,203,2,E,Semi-detached house,1945-1964,106,6,3,1,2,Active
+1204,UPRN204,204,3,D,Semi-detached house,1983-1999,118,6,3,2,2,Active
+1205,UPRN205,205,4,E,Detached house,1983-1999,151,7,4,2,2,Active
+1206,UPRN206,206,5,G,Detached house,2000 onwards,178,8,5,3,2,Active
+1207,UPRN207,207,6,C,Flat,1965-1982,68,3,1,1,1,Active
+1208,UPRN208,208,1,B,Mid-terrace house,Pre-1919,70,5,3,1,2,Active
+1209,UPRN209,209,2,C,Terraced house,1919-1944,81,5,3,1,2,Active
+1210,UPRN210,210,3,D,Semi-detached house,1945-1964,102,6,3,1,2,Active
+1211,UPRN211,211,4,E,Semi-detached house,1983-1999,114,6,3,2,2,Active
+1212,UPRN212,212,5,E,Detached house,1983-1999,147,7,4,2,2,Active
+1213,UPRN213,213,6,F,Detached house,2000 onwards,169,8,5,3,2,Active
+1214,UPRN214,214,1,C,Flat,2000 onwards,67,4,2,1,1,Active
+1215,UPRN215,215,2,D,Mid-terrace house,Pre-1919,93,5,3,1,2,Active
+1216,UPRN216,216,3,B,Terraced house,1919-1944,104,5,3,1,2,Active
+1217,UPRN217,217,4,D,Semi-detached house,1945-1964,98,6,3,1,2,Active
+1218,UPRN218,218,5,E,Semi-detached house,1983-1999,105,6,3,2,2,Active
+1219,UPRN219,219,6,F,Detached house,1983-1999,138,7,4,2,2,Active
+1220,UPRN220,220,1,A,Flat,1965-1982,51,3,1,1,1,Active
+1221,UPRN221,221,2,B,Flat,2000 onwards,63,4,2,1,1,Active
+1222,UPRN222,222,3,C,Mid-terrace house,Pre-1919,89,5,3,1,2,Active
+1223,UPRN223,223,4,D,Terraced house,1919-1944,95,5,3,1,2,Active
+1224,UPRN224,224,5,C,Semi-detached house,1945-1964,116,6,3,1,2,Active
+1225,UPRN225,225,6,D,Semi-detached house,1983-1999,128,6,3,2,2,Active
+1226,UPRN226,226,1,G,Detached house,2000 onwards,157,8,5,3,2,Active
+1227,UPRN227,227,2,C,Flat,1965-1982,47,3,1,1,1,Active
+1228,UPRN228,228,3,B,Flat,2000 onwards,54,4,2,1,1,Active
+1229,UPRN229,229,4,C,Mid-terrace house,Pre-1919,80,5,3,1,2,Active
+1230,UPRN230,230,5,C,Terraced house,1919-1944,91,5,3,1,2,Active
+1231,UPRN231,231,6,E,Semi-detached house,1945-1964,112,6,3,1,2,Active
+1232,UPRN232,232,1,E,Detached house,1983-1999,153,7,4,2,2,Active
+1233,UPRN233,233,2,F,Detached house,2000 onwards,175,8,5,3,2,Active
+1234,UPRN234,234,3,B,Flat,1965-1982,65,3,1,1,1,Active
+1235,UPRN235,235,4,C,Flat,2000 onwards,50,4,2,1,1,Active
+1236,UPRN236,236,5,B,Mid-terrace house,Pre-1919,76,5,3,1,2,Active
+1237,UPRN237,237,6,C,Terraced house,1919-1944,87,5,3,1,2,Active
+1238,UPRN238,238,1,E,Semi-detached house,1983-1999,111,6,3,2,2,Active
+1239,UPRN239,239,2,F,Detached house,1983-1999,144,7,4,2,2,Active
+1240,UPRN240,240,3,F,Detached house,2000 onwards,171,8,5,3,2,Active
+1241,UPRN241,241,4,B,Flat,1965-1982,61,3,1,1,1,Active
+1242,UPRN242,242,5,C,Flat,2000 onwards,73,4,2,1,1,Active
+1243,UPRN243,243,6,D,Mid-terrace house,Pre-1919,94,5,3,1,2,Active
+1244,UPRN244,244,1,C,Semi-detached house,1945-1964,95,6,3,1,2,Active
+1245,UPRN245,245,2,D,Semi-detached house,1983-1999,107,6,3,2,2,Active
+1246,UPRN246,246,3,F,Detached house,1983-1999,140,7,4,2,2,Active
+1247,UPRN247,247,4,G,Detached house,2000 onwards,167,8,5,3,2,Active
+1248,UPRN248,248,5,A,Flat,1965-1982,52,3,1,1,1,Active
+1249,UPRN249,249,6,B,Flat,2000 onwards,64,4,2,1,1,Active
+1250,UPRN250,250,1,C,Terraced house,1919-1944,97,5,3,1,2,Active
+1251,UPRN251,251,2,E,Semi-detached house,1945-1964,118,6,3,1,2,Active
+1252,UPRN252,252,3,D,Semi-detached house,1983-1999,130,6,3,2,2,Active
+1253,UPRN253,253,4,E,Detached house,1983-1999,131,7,4,2,2,Active
+1254,UPRN254,254,5,G,Detached house,2000 onwards,158,8,5,3,2,Active
+1255,UPRN255,255,6,C,Flat,1965-1982,48,3,1,1,1,Active
+1256,UPRN256,256,1,B,Mid-terrace house,Pre-1919,82,5,3,1,2,Active
+1257,UPRN257,257,2,C,Terraced house,1919-1944,93,5,3,1,2,Active
+1258,UPRN258,258,3,D,Semi-detached house,1945-1964,109,6,3,1,2,Active
+1259,UPRN259,259,4,E,Semi-detached house,1983-1999,121,6,3,2,2,Active
+1260,UPRN260,260,5,E,Detached house,1983-1999,154,7,4,2,2,Active
+1261,UPRN261,261,6,F,Detached house,2000 onwards,181,8,5,3,2,Active
+1262,UPRN262,262,1,C,Flat,2000 onwards,52,4,2,1,1,Active
+1263,UPRN263,263,2,D,Mid-terrace house,Pre-1919,73,5,3,1,2,Active
+1264,UPRN264,264,3,B,Terraced house,1919-1944,84,5,3,1,2,Active
+1265,UPRN265,265,4,D,Semi-detached house,1945-1964,105,6,3,1,2,Active
+1266,UPRN266,266,5,E,Semi-detached house,1983-1999,117,6,3,2,2,Active
+1267,UPRN267,267,6,F,Detached house,1983-1999,150,7,4,2,2,Active
+1268,UPRN268,268,1,A,Flat,1965-1982,58,3,1,1,1,Active
+1269,UPRN269,269,2,B,Flat,2000 onwards,70,4,2,1,1,Active
+1270,UPRN270,270,3,C,Mid-terrace house,Pre-1919,96,5,3,1,2,Active
+1271,UPRN271,271,4,D,Terraced house,1919-1944,80,5,3,1,2,Active
+1272,UPRN272,272,5,C,Semi-detached house,1945-1964,101,6,3,1,2,Active
+1273,UPRN273,273,6,D,Semi-detached house,1983-1999,108,6,3,2,2,Active
+1274,UPRN274,274,1,G,Detached house,2000 onwards,164,8,5,3,2,Active
+1275,UPRN275,275,2,C,Flat,1965-1982,54,3,1,1,1,Active
+1276,UPRN276,276,3,B,Flat,2000 onwards,66,4,2,1,1,Active
+1277,UPRN277,277,4,C,Mid-terrace house,Pre-1919,92,5,3,1,2,Active
+1278,UPRN278,278,5,C,Terraced house,1919-1944,98,5,3,1,2,Active
+1279,UPRN279,279,6,E,Semi-detached house,1945-1964,119,6,3,1,2,Active
+1280,UPRN280,280,1,E,Detached house,1983-1999,133,7,4,2,2,Active
+1281,UPRN281,281,2,F,Detached house,2000 onwards,160,8,5,3,2,Active
+1282,UPRN282,282,3,B,Flat,1965-1982,50,3,1,1,1,Active
+1283,UPRN283,283,4,C,Flat,2000 onwards,57,4,2,1,1,Active
+1284,UPRN284,284,5,B,Mid-terrace house,Pre-1919,83,5,3,1,2,Active
+1285,UPRN285,285,6,C,Terraced house,1919-1944,94,5,3,1,2,Active
+1286,UPRN286,286,1,E,Semi-detached house,1983-1999,123,6,3,2,2,Active
+1287,UPRN287,287,2,F,Detached house,1983-1999,156,7,4,2,2,Active
+1288,UPRN288,288,3,F,Detached house,2000 onwards,178,8,5,3,2,Active
+1289,UPRN289,289,4,B,Flat,1965-1982,41,3,1,1,1,Active
+1290,UPRN290,290,5,C,Flat,2000 onwards,53,4,2,1,1,Active
+1291,UPRN291,291,6,D,Mid-terrace house,Pre-1919,79,5,3,1,2,Active
+1292,UPRN292,292,1,C,Semi-detached house,1945-1964,107,6,3,1,2,Active
+1293,UPRN293,293,2,D,Semi-detached house,1983-1999,114,6,3,2,2,Active
+1294,UPRN294,294,3,F,Detached house,1983-1999,147,7,4,2,2,Active
+1295,UPRN295,295,4,G,Detached house,2000 onwards,174,8,5,3,2,Active
+1296,UPRN296,296,5,A,Flat,1965-1982,64,3,1,1,1,Active
+1297,UPRN297,297,6,B,Flat,2000 onwards,76,4,2,1,1,Active
+1298,UPRN298,298,1,C,Terraced house,1919-1944,77,5,3,1,2,Active
+1299,UPRN299,299,2,E,Semi-detached house,1945-1964,98,6,3,1,2,Active
+1300,UPRN300,300,3,D,Semi-detached house,1983-1999,110,6,3,2,2,Active
+1301,UPRN301,301,4,E,Detached house,1983-1999,143,7,4,2,2,Active
+1302,UPRN302,302,5,G,Detached house,2000 onwards,170,8,5,3,2,Active
+1303,UPRN303,303,6,C,Flat,1965-1982,55,3,1,1,1,Active
+1304,UPRN304,304,1,B,Mid-terrace house,Pre-1919,89,5,3,1,2,Active
+1305,UPRN305,305,2,C,Terraced house,1919-1944,100,5,3,1,2,Active
+1306,UPRN306,306,3,D,Semi-detached house,1945-1964,121,6,3,1,2,Active
+1307,UPRN307,307,4,E,Semi-detached house,1983-1999,106,6,3,2,2,Active
+1308,UPRN308,308,5,E,Detached house,1983-1999,134,7,4,2,2,Active
+1309,UPRN309,309,6,F,Detached house,2000 onwards,161,8,5,3,2,Active
+1310,UPRN310,310,1,C,Flat,2000 onwards,59,4,2,1,1,Active
+1311,UPRN311,311,2,D,Mid-terrace house,Pre-1919,85,5,3,1,2,Active
+1312,UPRN312,312,3,B,Terraced house,1919-1944,96,5,3,1,2,Active
+1313,UPRN313,313,4,D,Semi-detached house,1945-1964,112,6,3,1,2,Active
+1314,UPRN314,314,5,E,Semi-detached house,1983-1999,124,6,3,2,2,Active
+1315,UPRN315,315,6,F,Detached house,1983-1999,157,7,4,2,2,Active
+1316,UPRN316,316,1,A,Flat,1965-1982,43,3,1,1,1,Active
+1317,UPRN317,317,2,B,Flat,2000 onwards,55,4,2,1,1,Active
+1318,UPRN318,318,3,C,Mid-terrace house,Pre-1919,76,5,3,1,2,Active
+1319,UPRN319,319,4,D,Terraced house,1919-1944,87,5,3,1,2,Active
+1320,UPRN320,320,5,C,Semi-detached house,1945-1964,108,6,3,1,2,Active
+1321,UPRN321,321,6,D,Semi-detached house,1983-1999,120,6,3,2,2,Active
+1322,UPRN322,322,1,G,Detached house,2000 onwards,176,8,5,3,2,Active
+1323,UPRN323,323,2,C,Flat,1965-1982,61,3,1,1,1,Active
+1324,UPRN324,324,3,B,Flat,2000 onwards,73,4,2,1,1,Active
+1325,UPRN325,325,4,C,Mid-terrace house,Pre-1919,72,5,3,1,2,Active
+1326,UPRN326,326,5,C,Terraced house,1919-1944,83,5,3,1,2,Active
+1327,UPRN327,327,6,E,Semi-detached house,1945-1964,104,6,3,1,2,Active
